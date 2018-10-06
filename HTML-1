@@ -16,5 +16,18 @@
 <h2>Links</h2>
 <p>Here is a link to CUHK: <a href="http://www.cuhk.edu.hk">CUHK website</a></p>
 <img src="http://www.cuhk.edu.hk/english/images/ cuhk_logo_2x.png"></img>
+<ul>
+   <li>apples
+      <ul>
+         <li>golden delicious</li>
+         <li>granny smith</li>
+         <li>gala</li>
+      </ul>
+   </li>
+   <li>oranges</li>
+   <li>pineapples</li>
+   <li>mangoes</li>
+   <li>dragonfruit</li>
+</ul>
 </body>
 </html>
