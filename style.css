@@ -1,0 +1,19 @@
+.colorbox {
+ border-width:10px;
+ border-color:indianred;
+ border-style:solid;
+ margin-top:-20px;
+}
+
+h1 {
+ background-color: coral;
+ color: white;
+ text-align: center;
+ padding-top: 5px;
+ padding-bottom: 5px;
+ font-style: oblique;
+ font-family: cursive;
+ border-width: 10px;
+ border-color: indianred;
+ border-style: double;
+}
